@@ -1,6 +1,3 @@
-Here's a well-structured and impressive README for your project:  
-
----
 
 ### **ML Explorations 🚀**  
 *A series of Python scripts for testing and implementing various Machine Learning concepts*  
